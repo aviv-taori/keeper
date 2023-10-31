@@ -1,7 +1,7 @@
 function Footer(){
     return(
         <footer>
-            By - Aviv Taori
+            Copyright By - Aviv Taori ⓒ
         </footer>
     )
 }
